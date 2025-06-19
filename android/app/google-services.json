@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "726644274277",
+    "project_id": "p3lreusemart",
+    "storage_bucket": "p3lreusemart.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726644274277:android:2c0cb8dc9922e788b5428c",
+        "android_client_info": {
+          "package_name": "com.example.p3l"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0QtIehZyHbJ7tw4dnTbMCowhacmFkAc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726644274277:android:35acb0b1eef582ffb5428c",
+        "android_client_info": {
+          "package_name": "com.example.p3l_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0QtIehZyHbJ7tw4dnTbMCowhacmFkAc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
